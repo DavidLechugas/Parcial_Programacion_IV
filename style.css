@@ -1,0 +1,13 @@
+#container {
+    text-align: center;
+    background-color: rgb(120, 120, 231);
+    font: bold 20px Arial;
+    color: white;
+}
+
+#texto {
+    font: bold 20px Arial;
+    color: white;
+    text-align: center;
+    background-color: blue;
+}
