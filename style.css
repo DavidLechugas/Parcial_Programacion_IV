@@ -21,3 +21,11 @@
     border-color: black;
     margin: 10px;
 }
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
