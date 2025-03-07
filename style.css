@@ -7,7 +7,17 @@
 
 #texto {
     font: bold 20px Arial;
-    color: white;
-    text-align: center;
-    background-color: blue;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    background-color: rgb(221, 183, 183);
+    width: 50%;
+}
+
+#link{
+    font: bold 20px Arial;
+    background-color: rgb(86, 86, 156);
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+    margin: 10px;
 }
